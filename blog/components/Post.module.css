@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .postTitle {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .postDate {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .postContent {
+    line-height: 1.6;
+  }
+  
